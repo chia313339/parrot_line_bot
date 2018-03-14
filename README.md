@@ -1,4 +1,4 @@
-# line-bot-Tutorial
+# parrot_line_bot
 
 ## Heroku 注意事項
 
