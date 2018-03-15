@@ -2,7 +2,7 @@
 
 ## Heroku 注意事項
 
-有些人可能會遇到佈署失敗的問題，可以試著將 [runtime.txt](https://github.com/twtrubiks/line-bot-tutorial/blob/master/runtime.txt) 修改為 3.6.2
+遇到佈署失敗，可將 [runtime.txt](https://github.com/twtrubiks/line-bot-tutorial/blob/master/runtime.txt) 修改為 3.6.2
 
 ## 執行環境
 
